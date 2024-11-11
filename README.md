@@ -1,5 +1,4 @@
 # ailab
-for my ai lab
+for my ai lab, if it's available for you ,please give me a star
 
-three labs
-three labs
+此外，这里提供了人工智能引论（吴飞）的扫描版，仅供自己用，侵权删
