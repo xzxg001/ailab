@@ -1,0 +1,43 @@
+Model information:
+Model 2:
+  model_id: 2
+  rank: 1
+  cost: 0.37825278810408924
+  ensemble_weight: 0.3
+  data_preprocessor: <autosklearn.pipeline.components.data_preprocessing.DataPreprocessorChoice object at 0x79a73621de50>
+  balancing: autosklearn.pipeline Balancing Imbalanced Class Distributions
+  feature_preprocessor: <autosklearn.pipeline.components.feature_preprocessing.FeaturePreprocessorChoice object at 0x79a736254460>
+  classifier: <autosklearn.pipeline.components.classification.ClassifierChoice object at 0x79a736254cd0>
+  sklearn_classifier: RandomForestClassifier(max_features=9, n_estimators=512, n_jobs=1,
+                       random_state=1, warm_start=True)
+
+Model 9:
+  model_id: 9
+  rank: 2
+  cost: 0.387546468401487
+  ensemble_weight: 0.46
+  data_preprocessor: <autosklearn.pipeline.components.data_preprocessing.DataPreprocessorChoice object at 0x79a736244070>
+  balancing: autosklearn.pipeline Balancing Imbalanced Class Distributions
+  feature_preprocessor: <autosklearn.pipeline.components.feature_preprocessing.FeaturePreprocessorChoice object at 0x79a736aafa00>
+  classifier: <autosklearn.pipeline.components.classification.ClassifierChoice object at 0x79a736aafb80>
+  sklearn_classifier: PassiveAggressiveClassifier(C=2.6029223727861803e-05, loss='squared_hinge',
+                            max_iter=128, random_state=1,
+                            tol=4.631073253805713e-05, warm_start=True)
+
+Model 10:
+  model_id: 10
+  rank: 3
+  cost: 0.37174721189591076
+  ensemble_weight: 0.24
+  data_preprocessor: <autosklearn.pipeline.components.data_preprocessing.DataPreprocessorChoice object at 0x79a736244520>
+  balancing: autosklearn.pipeline Balancing Imbalanced Class Distributions
+  feature_preprocessor: <autosklearn.pipeline.components.feature_preprocessing.FeaturePreprocessorChoice object at 0x79a736aa8880>
+  classifier: <autosklearn.pipeline.components.classification.ClassifierChoice object at 0x79a736aa8610>
+  sklearn_classifier: HistGradientBoostingClassifier(early_stopping=True,
+                               l2_regularization=5.027708640006448e-08,
+                               learning_rate=0.09750328007832798, max_iter=16,
+                               max_leaf_nodes=1234, min_samples_leaf=25,
+                               n_iter_no_change=1, random_state=1,
+                               validation_fraction=0.08300813783286698,
+                               warm_start=True)
+
