@@ -1,6 +1,5 @@
 # ailab
-for my ai lab, if it's available for you ,please give me a star
-
+侵权删
 ## 实验说明
 这是**HNU计科拔尖班人工智能实验**的任务说明，可以详细了解[实验说明](实验说明.md)
 
